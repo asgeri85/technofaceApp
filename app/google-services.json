@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774826250570",
+    "firebase_url": "https://technoface-20b23-default-rtdb.firebaseio.com",
+    "project_id": "technoface-20b23",
+    "storage_bucket": "technoface-20b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774826250570:android:8d6bb6957895f8dfd531b3",
+        "android_client_info": {
+          "package_name": "com.example.technofaceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774826250570-jtehqe60qlhchmlhid30ssrbb5jlnjnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA7BF8BEQhF6NS0DJmmGTjBol0QvKA9HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774826250570-jtehqe60qlhchmlhid30ssrbb5jlnjnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

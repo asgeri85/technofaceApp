@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_cancel_title">İptal</string>
+    <string name="btn_custpmer_title">MÜŞTERİYİM</string>
+    <string name="btn_cashier_title">Kasiyerim</string>
+    <string name="btn_error_title">Hata</string>
+    <string name="radio_50">50</string>
+    <string name="radio_100">100</string>
+    <string name="radio_200">200</string>
+    <string name="radio_other">Diğer</string>
+    <string name="btn_send_title">Ödemeyi Gönder</string>
+    <string name="text_value">Değer :</string>
+    <string name="btn_new_title">Yeni Fiş Oluştur</string>
+</resources>
